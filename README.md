@@ -57,3 +57,11 @@ start/
             └── 02
                 └── 36
 ```
+
+## Make Cool Treasure
+
+ASCII Art Generator
+- http://patorjk.com/software/taag/#p=display&f=Sub-Zero&t=Type%0ASomething
+
+ASCII Zoo Animals
+- http://www.geocities.ws/SoHo/7373/zoo.html
